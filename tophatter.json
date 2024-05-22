@@ -10,11 +10,11 @@
         "facebookBannerId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "facebookInterstitialId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
         "facebookNativeId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-        "interstitialClickActivities": 5,
-        "interstitialClickList": 5
+        "interstitialClickActivities": 6,
+        "interstitialClickList": 6
     },
 
-"Data": {
+      "Data": {
         "btn_more_title": "More",
         "btn_more_url": "https://smrturl.co/bf72a92",
         "items_data": [{
@@ -117,3 +117,4 @@
 
         ]
     }
+}
